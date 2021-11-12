@@ -1,2 +1,2 @@
 # Stunt_Square
-Avoid obstacles, survive
+Avoid obstacles, Survivial Game.
